@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v6.json",
-  "description": "Agz_250811_Dataviz by David Bacci: https://www.linkedin.com/in/davbacci/",
+  "description": "Agz_250811bis_Dataviz by David Bacci: https://www.linkedin.com/in/davbacci/",
   "autosize": "pad",
   "width": 120,
   "padding": {"left": 5, "right": 0, "top": 5, "bottom": 0},
